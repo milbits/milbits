@@ -11,7 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about nothing
 - 📫 How to reach me: nowhere
-- 😄 Pronouns: she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: 100% of sharks die on earth
-
-<a href="https://milbit.fish"> <img src="https://milbit.fish/assets/images/button.webp" alt="my site" /> </a> 
